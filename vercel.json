@@ -1,5 +1,6 @@
 {
-    "buildCommand": "npx vite build",
-    "outputDirectory": "dist"
+    "buildCommand": "cd razor && npx vite build",
+    "outputDirectory": "dist",
+    "ignoreCommand": "echo 'no ignore'"
   }
   
