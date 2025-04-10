@@ -1,5 +1,5 @@
 {
-    "buildCommand": "cd razor && npx vite build",
+    "buildCommand": "cd razor && npm run build",
     "outputDirectory": "dist"
   }
   
